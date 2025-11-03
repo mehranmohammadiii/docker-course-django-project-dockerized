@@ -72,6 +72,6 @@ The `Dockerfile` in this project sets up a lightweight environment using a Pytho
 ## 🎨 Credits & Acknowledgements
 
 A huge thank you to **hadimh** for the beautiful and clean UI/UX design. 
-*   Check out their amazing work on GitHub: **[hadimh](https://github.com/hadimh)**
+*   Check out their amazing work on GitHub: **[hadimh](https://github.com/hadiMh)**
 
 ---

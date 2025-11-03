@@ -39,12 +39,12 @@ Make sure you have Git and Docker installed on your system.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+    git clone https://github.com/mehranmohammadiii/docker-course-django-project-dockerized
     ```
 
 2.  **Navigate to the project directory:**
     ```sh
-    cd YOUR_REPO_NAME
+    cd docker-course-django-project-dockerized 
     ```
 
 3.  **Build the Docker image:**

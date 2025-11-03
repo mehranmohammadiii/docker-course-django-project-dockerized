@@ -1,9 +1,9 @@
 # Dockerized Django Notes App
 
 <p align="center">
-  <img src="URL_TO_YOUR_FIRST_IMAGE" alt="Dashboard Page" width="48%">
+  <img src="https://github.com/mehranmohammadiii/docker-course-django-project-dockerized/blob/main/screenshots/Screenshot%20from%202025-11-03%2019-59-34.png" alt="Dashboard Page" width="48%">
   &nbsp;&nbsp;
-  <img src="URL_TO_YOUR_SECOND_IMAGE" alt="Notes Page" width="48%">
+  <img src="https://github.com/mehranmohammadiii/docker-course-django-project-dockerized/blob/main/screenshots/Screenshot%20from%202025-11-03%2020-04-39.png" alt="Notes Page" width="48%">
 </p>
 
 A simple yet elegant note-taking web application built with Django and fully containerized using Docker. This project demonstrates a clean, production-ready setup for a Django application within a Docker environment.
